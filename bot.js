@@ -66,6 +66,10 @@ function postMessage() {
     {
         botResponse = "Taxation is theft";
     }
+    else if (randomnum > 31)
+    {
+        botResponse = "New phone who dis";
+    }
     else if (randomnum > 30)
     {
         botResponse = "Jet fuel can't melt steel beams";
