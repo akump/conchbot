@@ -88,7 +88,7 @@ function postMessage() {
     }
     else if (randomnum > 22)
     {
-        botResponse = "https://pixabay.com/static/uploads/photo/2014/04/03/10/08/chef-309934_960_720.png";
+        botResponse = "http://i2.kym-cdn.com/entries/icons/original/000/016/362/tumblr_nb7jgq9kcR1slfxluo1_1280.jpg";
     }
     else if (randomnum > 20)
     {
