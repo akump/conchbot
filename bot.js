@@ -22,11 +22,27 @@ function postMessage() {
   var botResponse, options, body, botReq;
 
   var randomnum = Math.floor((Math.random() * 52) + 1);
-  if (randomnum > 50)
+  if (randomnum > 60)
     {
         botResponse = "Absolutely";
     }
-    else if (randomnum > 46)
+    else if (randomnum > 58)
+    {
+        botResponse = "Y E S";
+    }
+    else if (randomnum > 56)
+    {
+        botResponse = "N O";
+    }
+    else if (randomnum > 54)
+    {
+        botResponse = "http://i0.kym-cdn.com/photos/images/newsfeed/001/329/166/80f.jpg";
+    }
+    else if (randomnum > 52)
+    {
+        botResponse = "https://www.dailydot.com/wp-content/uploads/228/6f/ab64a69d4cd848bad23ed0f9190a91eb.jpg";
+    }
+    else if (randomnum > 50)
     {
         botResponse = "http://ih1.redbubble.net/image.214499180.8793/flat,800x800,075,f.jpg";
     }
@@ -60,7 +76,7 @@ function postMessage() {
     }
     else if (randomnum > 34)
     {
-        botResponse = "Yeah sure whatever";
+        botResponse = "DO";
     }
     else if (randomnum > 32)
     {
@@ -68,7 +84,7 @@ function postMessage() {
     }
     else if (randomnum > 31)
     {
-        botResponse = "New phone who dis";
+        botResponse = "A N G E R Y";
     }
     else if (randomnum > 30)
     {
@@ -112,7 +128,7 @@ function postMessage() {
     }
     else if (randomnum > 10)
     {
-        botResponse = "Harambe forbids it";
+        botResponse = "DO NOT";
     }
     else if (randomnum > 8)
     {
