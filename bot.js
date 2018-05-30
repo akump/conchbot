@@ -21,10 +21,18 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  var randomnum = Math.floor((Math.random() * 52) + 1);
-  if (randomnum > 60)
+  var randomnum = Math.floor((Math.random() * 66) + 1);
+  if (randomnum > 64)
     {
         botResponse = "Absolutely";
+    }
+    else if (randomnum > 62)
+    {
+        botResponse = "Non't";
+    }
+    else if (randomnum > 60)
+    {
+        botResponse = "Yesn't";
     }
     else if (randomnum > 58)
     {
