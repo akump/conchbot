@@ -72,7 +72,7 @@ function postMessage() {
     }
     else if (randomnum > 40)
     {
-        botResponse = "https://tctechcrunch2011.files.wordpress.com/2011/05/thumbs.png";
+        botResponse = "https://tctechcrunch2011.files.wordpress.com/2011/05/thumbs.png"; // TODO fix me
     }
     else if (randomnum > 38)
     {
@@ -112,7 +112,7 @@ function postMessage() {
     }
     else if (randomnum > 22)
     {
-        botResponse = "http://i2.kym-cdn.com/entries/icons/original/000/016/362/tumblr_nb7jgq9kcR1slfxluo1_1280.jpg";
+        botResponse = "http://i2.kym-cdn.com/entries/icons/original/000/016/362/tumblr_nb7jgq9kcR1slfxluo1_1280.jpg"; // TODO fix me
     }
     else if (randomnum > 20)
     {
